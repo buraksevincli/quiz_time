@@ -1,0 +1,11 @@
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_bilgi_yarismasi\my_hw_bilgi_yarismasi\bin\Debug\my_hw_bilgi_yarismasi.exe.config
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_bilgi_yarismasi\my_hw_bilgi_yarismasi\bin\Debug\my_hw_bilgi_yarismasi.exe
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_bilgi_yarismasi\my_hw_bilgi_yarismasi\bin\Debug\my_hw_bilgi_yarismasi.pdb
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_bilgi_yarismasi\my_hw_bilgi_yarismasi\obj\Debug\my_hw_bilgi_yarismasi.csproj.AssemblyReference.cache
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_bilgi_yarismasi\my_hw_bilgi_yarismasi\obj\Debug\my_hw_bilgi_yarismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_bilgi_yarismasi\my_hw_bilgi_yarismasi\obj\Debug\my_hw_bilgi_yarismasi.Form1.resources
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_bilgi_yarismasi\my_hw_bilgi_yarismasi\obj\Debug\my_hw_bilgi_yarismasi.Properties.Resources.resources
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_bilgi_yarismasi\my_hw_bilgi_yarismasi\obj\Debug\my_hw_bilgi_yarismasi.csproj.GenerateResource.cache
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_bilgi_yarismasi\my_hw_bilgi_yarismasi\obj\Debug\my_hw_bilgi_yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_bilgi_yarismasi\my_hw_bilgi_yarismasi\obj\Debug\my_hw_bilgi_yarismasi.exe
+C:\Users\brksv\OneDrive\Masaüstü\C# Diaries\my_hw_bilgi_yarismasi\my_hw_bilgi_yarismasi\obj\Debug\my_hw_bilgi_yarismasi.pdb
